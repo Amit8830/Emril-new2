@@ -1,0 +1,31 @@
+.repair {
+  position: relative;
+  display: flex;
+  top: 9px;
+  width: 1448px;
+  height: 185px;
+  padding: 15px;
+  margin: 0px;
+}
+
+.icon {
+  margin: 12px;
+  width: 108px;
+  height: 45px;
+  position: relative;
+  left: -8px;
+}
+
+.hel {
+  position: relative;
+  height: 112px;
+}
+
+.cont {
+  width: 1432px;
+  left: 49px;
+  position: absolute;
+  background: #d4c19e47;
+  top: 938px;
+  height: 167px;
+}
